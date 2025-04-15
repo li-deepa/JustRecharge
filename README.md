@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Welcome to the JustRecharge Repository</h1>
+<h1> JustRecharge Repository</h1>
 
 <p>JustRecharge is a platform designed to simplify the process of recharging your mobile, DTH, and other services seamlessly. This repository houses the source code, documentation, and automation scripts for the JustRecharge app.</p>
 
