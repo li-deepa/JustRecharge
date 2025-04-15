@@ -27,7 +27,7 @@
 </ol>
 
 <h2>Automation Reports</h2>
-<p>Automation reports provide insights into the test results and system performance. You can view the automation report using the <a href="Test_dashboard.html">Test Dashboard</a>.</p>
+<p>Automation reports provide insights into the test results and system performance. You can view the automation report using the <a href="test_dashboard.html">Test Dashboard</a>.</p>
 
 
 
