@@ -1,54 +1,81 @@
-# JustRecharge
-Automation testing
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JustRecharge</title>
+    <title>Test Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        .success {
+            color: green;
+        }
+        .failure {
+            color: red;
+        }
+    </style>
 </head>
 <body>
-    <h1>JustRecharge</h1>
-    <p>
-        JustRecharge is a Python-based project focused on automation testing. 
-        This repository aims to provide a robust and efficient framework to automate testing processes, 
-        making it easier to ensure the quality and reliability of software applications.
-    </p>
+    <h1>Automation Test Dashboard</h1>
+    <p>Below is the summary of the automation test results:</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Test Case</th>
+                <th>Status</th>
+                <th>Execution Time</th>
+            </tr>
+        </thead>
+        <tbody id="testResults">
+            <!-- Rows will be populated by JavaScript -->
+        </tbody>
+    </table>
 
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Usage</a></li>
-       
-    </ul>
+    <script>
+        // Example data, replace with actual data source
+        const testReport = [
+            { testCase: "Login Test", status: "Success", executionTime: "5s" },
+            { testCase: "Signup Test", status: "Failure", executionTime: "8s" },
+            { testCase: "Logout Test", status: "Success", executionTime: "3s" }
+        ];
 
-    <h2 id="features">Features</h2>
-    <ul>
-        <li>Comprehensive automation testing capabilities.</li>
-        <li>Easy-to-use Python-based framework.</li>
-        <li>Highly customizable and extendable.</li>
-    </ul>
+        const tableBody = document.getElementById("testResults");
 
-    <h2 id="installation">Installation</h2>
-    <ol>
-        <li>Clone the repository:
-            <pre><code>git clone https://github.com/li-deepa/JustRecharge.git</code></pre>
-        </li>
-        <li>Navigate to the project directory:
-            <pre><code>cd JustRecharge</code></pre>
-        </li>
-        <li>Install dependencies (if any):
-            <pre><code>pip install -r requirements.txt</code></pre>
-        </li>
-    </ol>
+        testReport.forEach(test => {
+            const row = document.createElement("tr");
 
-    <h2 id="usage">Usage</h2>
-    <p>To run the automation tests, execute the following command:</p>
-    <pre><code>python run_tests.py</code></pre>
-  
+            const testCaseCell = document.createElement("td");
+            testCaseCell.textContent = test.testCase;
 
-    <hr>
-    <p>Happy testing!</p>
+            const statusCell = document.createElement("td");
+            statusCell.textContent = test.status;
+            statusCell.classList.add(test.status === "Success" ? "success" : "failure");
+
+            const executionTimeCell = document.createElement("td");
+            executionTimeCell.textContent = test.executionTime;
+
+            row.appendChild(testCaseCell);
+            row.appendChild(statusCell);
+            row.appendChild(executionTimeCell);
+
+            tableBody.appendChild(row);
+        });
+    </script>
 </body>
 </html>
