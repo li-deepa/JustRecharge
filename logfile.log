@@ -1,0 +1,764 @@
+2023-10-10 16:12:07,148 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:12:07,149 :INFO :utilities.test_logging :info statement
+2023-10-10 16:12:07,149 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:12:07,149 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:12:07,149 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:13:47,140 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:13:47,140 :INFO :utilities.test_logging :info statement
+2023-10-10 16:13:47,140 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:13:47,142 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:13:47,142 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:15:53,727 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:15:53,727 :INFO :utilities.test_logging :info statement
+2023-10-10 16:15:53,727 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:15:53,727 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:15:53,727 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:19:19,164 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:19:19,164 :INFO :utilities.test_logging :info statement
+2023-10-10 16:19:19,164 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:19:19,164 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:19:19,164 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:20:46,710 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:20:46,710 :INFO :utilities.test_logging :info statement
+2023-10-10 16:20:46,710 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:20:46,710 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:20:46,710 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:21:20,694 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:21:20,694 :INFO :utilities.test_logging :info statement
+2023-10-10 16:21:20,694 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:21:20,694 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:21:20,694 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:22:25,645 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:22:25,645 :INFO :utilities.test_logging :info statement
+2023-10-10 16:22:25,645 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:22:25,645 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:22:25,645 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:35:11,896 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:35:11,901 :INFO :utilities.test_logging :info statement
+2023-10-10 16:35:11,901 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:35:11,901 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:35:11,901 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:35:48,440 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-10 16:35:48,440 :INFO :utilities.test_logging :info statement
+2023-10-10 16:35:48,440 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-10 16:35:48,440 :ERROR :utilities.test_logging :A major error has happened
+2023-10-10 16:35:48,440 :CRITICAL :utilities.test_logging :Critical
+2023-10-10 16:38:16,149 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2023-10-10 16:38:21,273 :INFO :test_validSubmission :testing with valid data
+2023-10-30 15:05:26,618 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2023-10-30 15:05:48,660 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2023-10-30 15:05:49,024 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2023-10-30 15:05:49,073 :INFO :test_validSubmission :testing with valid data
+2023-10-30 15:05:51,826 :INFO :test_validSubmission :checking check boxes
+2023-10-30 15:06:06,549 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:06:47,217 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:06:47,217 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:07:07,743 :INFO :test_EditMobileNo :clicking the Edit Button 
+2023-10-30 15:07:30,458 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2023-10-30 15:07:30,553 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:07:38,583 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2023-10-30 15:07:50,760 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:07:50,776 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2023-10-30 15:07:54,560 :INFO :test_forgotPassword :clicking the forgot pwd button
+2023-10-30 15:07:54,606 :INFO :test_forgotPassword :sending blank email address
+2023-10-30 15:07:56,689 :INFO :test_forgotPassword :sending not registered email id
+2023-10-30 15:08:00,520 :INFO :test_forgotPassword :sending valid email id
+2023-10-30 15:08:02,505 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:02,505 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:02,505 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:38,855 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:38,855 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:38,855 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:38,855 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:08:58,867 :INFO :test_addMobileNo :login
+2023-10-30 15:08:58,867 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2023-10-30 15:09:19,135 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:19,135 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:19,135 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:19,135 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:19,135 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:39,678 :INFO :test_rechargeMobile :randomly selecting a number
+2023-10-30 15:09:44,703 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:44,703 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:44,703 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:44,703 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:44,703 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:44,703 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:09:55,402 :INFO :test_validTrans :changing driver by refreshing
+2023-10-30 15:09:59,570 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-30 15:09:59,572 :INFO :utilities.test_logging :info statement
+2023-10-30 15:09:59,572 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-30 15:09:59,572 :ERROR :utilities.test_logging :A major error has happened
+2023-10-30 15:09:59,572 :CRITICAL :utilities.test_logging :Critical
+2023-10-30 15:13:33,879 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2023-10-30 15:13:56,085 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2023-10-30 15:13:56,596 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2023-10-30 15:13:56,650 :INFO :test_validSubmission :testing with valid data
+2023-10-30 15:13:58,980 :INFO :test_validSubmission :checking check boxes
+2023-10-30 15:14:15,287 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:14:57,922 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:14:57,922 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:15:18,502 :INFO :test_EditMobileNo :clicking the Edit Button 
+2023-10-30 15:15:42,610 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2023-10-30 15:15:42,761 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:15:50,799 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2023-10-30 15:16:03,066 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:16:03,088 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2023-10-30 15:16:07,025 :INFO :test_forgotPassword :clicking the forgot pwd button
+2023-10-30 15:16:07,092 :INFO :test_forgotPassword :sending blank email address
+2023-10-30 15:16:09,197 :INFO :test_forgotPassword :sending not registered email id
+2023-10-30 15:16:13,170 :INFO :test_forgotPassword :sending valid email id
+2023-10-30 15:16:15,308 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:16:15,308 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:16:15,308 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:16:52,655 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:16:52,655 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:16:52,655 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:16:52,655 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:17:12,653 :INFO :test_addMobileNo :login
+2023-10-30 15:17:12,653 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2023-10-30 15:17:34,952 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:17:34,952 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:17:34,952 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:17:34,952 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:17:34,952 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:17:55,903 :INFO :test_rechargeMobile :randomly selecting a number
+2023-10-30 15:18:00,935 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:18:00,935 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:18:00,935 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:18:00,935 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:18:00,935 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:18:00,935 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:18:12,309 :INFO :test_validTrans :changing driver by refreshing
+2023-10-30 15:18:16,635 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-30 15:18:16,635 :INFO :utilities.test_logging :info statement
+2023-10-30 15:18:16,635 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-30 15:18:16,635 :ERROR :utilities.test_logging :A major error has happened
+2023-10-30 15:18:16,635 :CRITICAL :utilities.test_logging :Critical
+2023-10-30 15:24:01,611 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2023-10-30 15:24:23,815 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2023-10-30 15:24:24,357 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2023-10-30 15:24:24,413 :INFO :test_validSubmission :testing with valid data
+2023-10-30 15:24:26,779 :INFO :test_validSubmission :checking check boxes
+2023-10-30 15:24:40,438 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:25:23,485 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:25:23,485 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:25:44,233 :INFO :test_EditMobileNo :clicking the Edit Button 
+2023-10-30 15:26:07,421 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2023-10-30 15:26:09,091 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:26:17,146 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2023-10-30 15:26:29,464 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:26:29,486 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2023-10-30 15:26:33,393 :INFO :test_forgotPassword :clicking the forgot pwd button
+2023-10-30 15:26:33,472 :INFO :test_forgotPassword :sending blank email address
+2023-10-30 15:26:35,591 :INFO :test_forgotPassword :sending not registered email id
+2023-10-30 15:26:36,876 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:26:36,876 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:26:36,876 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:26:56,093 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-30 15:26:56,093 :INFO :utilities.test_logging :info statement
+2023-10-30 15:26:56,093 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-30 15:26:56,093 :ERROR :utilities.test_logging :A major error has happened
+2023-10-30 15:26:56,095 :CRITICAL :utilities.test_logging :Critical
+2023-10-30 15:30:51,885 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2023-10-30 15:31:14,058 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2023-10-30 15:31:14,587 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2023-10-30 15:31:14,643 :INFO :test_validSubmission :testing with valid data
+2023-10-30 15:31:16,961 :INFO :test_validSubmission :checking check boxes
+2023-10-30 15:31:30,987 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:32:13,548 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:32:13,548 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:32:34,158 :INFO :test_EditMobileNo :clicking the Edit Button 
+2023-10-30 15:32:59,133 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2023-10-30 15:32:59,683 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:33:07,718 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2023-10-30 15:33:19,964 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2023-10-30 15:33:19,987 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2023-10-30 15:33:23,881 :INFO :test_forgotPassword :clicking the forgot pwd button
+2023-10-30 15:33:23,950 :INFO :test_forgotPassword :sending blank email address
+2023-10-30 15:33:26,062 :INFO :test_forgotPassword :sending not registered email id
+2023-10-30 15:33:29,968 :INFO :test_forgotPassword :sending valid email id
+2023-10-30 15:33:32,012 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:33:32,012 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:33:32,012 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:09,896 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:09,896 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:09,896 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:09,896 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:30,104 :INFO :test_addMobileNo :login
+2023-10-30 15:34:30,104 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2023-10-30 15:34:52,620 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:52,620 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:52,620 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:52,620 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:34:52,620 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:13,721 :INFO :test_rechargeMobile :randomly selecting a number
+2023-10-30 15:35:18,745 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:18,745 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:18,745 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:18,745 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:18,745 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:18,745 :INFO :login :clicking the Login account option with valid details
+2023-10-30 15:35:28,332 :INFO :test_validTrans :changing driver by refreshing
+2023-10-30 15:35:32,757 :DEBUG :utilities.test_logging :A debug statement is executed
+2023-10-30 15:35:32,757 :INFO :utilities.test_logging :info statement
+2023-10-30 15:35:32,757 :WARNING :utilities.test_logging :Something is in warning mode
+2023-10-30 15:35:32,757 :ERROR :utilities.test_logging :A major error has happened
+2023-10-30 15:35:32,758 :CRITICAL :utilities.test_logging :Critical
+2024-09-19 15:47:16,862 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2024-09-19 15:47:39,664 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2024-09-19 15:47:40,259 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2024-09-19 15:47:40,319 :INFO :test_validSubmission :testing with valid data
+2024-09-19 15:47:43,207 :INFO :test_validSubmission :checking check boxes
+2024-09-19 15:47:57,122 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:48:25,595 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:48:25,595 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:48:56,788 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-19 15:48:56,882 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 15:49:04,927 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-19 15:49:17,308 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 15:49:17,340 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-19 15:49:21,754 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-19 15:49:21,817 :INFO :test_forgotPassword :sending blank email address
+2024-09-19 15:49:23,928 :INFO :test_forgotPassword :sending not registered email id
+2024-09-19 15:49:28,413 :INFO :test_forgotPassword :sending valid email id
+2024-09-19 15:49:30,849 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:49:30,849 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:49:30,849 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:04,087 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:04,087 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:04,087 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:04,087 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:26,328 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:26,328 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:26,328 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:26,328 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:26,328 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:34,661 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:34,661 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:34,661 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:34,661 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:34,661 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:34,661 :INFO :login :clicking the Login account option with valid details
+2024-09-19 15:50:43,331 :DEBUG :utilities.test_logging :A debug statement is executed
+2024-09-19 15:50:43,344 :INFO :utilities.test_logging :info statement
+2024-09-19 15:50:43,344 :WARNING :utilities.test_logging :Something is in warning mode
+2024-09-19 15:50:43,344 :ERROR :utilities.test_logging :A major error has happened
+2024-09-19 15:50:43,344 :CRITICAL :utilities.test_logging :Critical
+2024-09-19 16:14:59,620 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2024-09-19 16:15:23,705 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2024-09-19 16:15:24,470 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2024-09-19 16:15:24,535 :INFO :test_validSubmission :testing with valid data
+2024-09-19 16:15:28,481 :INFO :test_validSubmission :checking check boxes
+2024-09-19 16:15:50,501 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:16:21,824 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:16:21,824 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:16:55,856 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-19 16:16:56,005 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 16:17:04,057 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-19 16:17:16,431 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 16:17:16,461 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-19 16:17:20,440 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-19 16:17:20,517 :INFO :test_forgotPassword :sending blank email address
+2024-09-19 16:17:22,605 :INFO :test_forgotPassword :sending not registered email id
+2024-09-19 16:17:28,026 :INFO :test_forgotPassword :sending valid email id
+2024-09-19 16:17:28,179 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:17:28,179 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:17:28,179 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:17:59,688 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:17:59,688 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:17:59,688 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:17:59,688 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:28,066 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:28,066 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:28,066 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:28,066 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:28,066 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:36,683 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:36,683 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:36,683 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:36,683 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:36,683 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:36,683 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:18:44,734 :DEBUG :utilities.test_logging :A debug statement is executed
+2024-09-19 16:18:44,734 :INFO :utilities.test_logging :info statement
+2024-09-19 16:18:44,734 :WARNING :utilities.test_logging :Something is in warning mode
+2024-09-19 16:18:44,734 :ERROR :utilities.test_logging :A major error has happened
+2024-09-19 16:18:44,734 :CRITICAL :utilities.test_logging :Critical
+2024-09-19 16:35:57,186 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2024-09-19 16:36:19,799 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2024-09-19 16:36:20,470 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2024-09-19 16:36:20,576 :INFO :test_validSubmission :testing with valid data
+2024-09-19 16:36:23,307 :INFO :test_validSubmission :checking check boxes
+2024-09-19 16:36:39,053 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:37:13,676 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:37:13,676 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:37:44,953 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-19 16:37:45,060 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 16:37:53,097 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-19 16:38:05,462 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 16:38:05,481 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-19 16:38:09,895 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-19 16:38:09,962 :INFO :test_forgotPassword :sending blank email address
+2024-09-19 16:38:12,068 :INFO :test_forgotPassword :sending not registered email id
+2024-09-19 16:38:16,589 :INFO :test_forgotPassword :sending valid email id
+2024-09-19 16:38:16,747 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:38:16,747 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:38:16,747 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:38:45,606 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:38:45,606 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:38:45,606 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:38:45,606 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:11,958 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:11,958 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:11,958 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:11,958 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:11,958 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:20,782 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:20,782 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:20,782 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:20,782 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:20,782 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:20,782 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:39:28,834 :DEBUG :utilities.test_logging :A debug statement is executed
+2024-09-19 16:39:28,834 :INFO :utilities.test_logging :info statement
+2024-09-19 16:39:28,834 :WARNING :utilities.test_logging :Something is in warning mode
+2024-09-19 16:39:28,834 :ERROR :utilities.test_logging :A major error has happened
+2024-09-19 16:39:28,834 :CRITICAL :utilities.test_logging :Critical
+2024-09-19 16:48:50,127 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2024-09-19 16:49:13,074 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2024-09-19 16:49:13,881 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2024-09-19 16:49:13,983 :INFO :test_validSubmission :testing with valid data
+2024-09-19 16:49:16,953 :INFO :test_validSubmission :checking check boxes
+2024-09-19 16:49:36,808 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:50:25,146 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:50:25,146 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:50:47,287 :INFO :test_EditMobileNo :clicking the Edit Button 
+2024-09-19 16:51:11,852 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-19 16:51:13,742 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 16:51:21,775 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-19 16:51:34,105 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-19 16:51:34,140 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-19 16:51:38,168 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-19 16:51:38,245 :INFO :test_forgotPassword :sending blank email address
+2024-09-19 16:51:40,349 :INFO :test_forgotPassword :sending not registered email id
+2024-09-19 16:51:45,049 :INFO :test_forgotPassword :sending valid email id
+2024-09-19 16:51:45,255 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:51:45,255 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:51:45,255 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:52:14,779 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:52:14,779 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:52:14,779 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:52:14,779 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:52:35,614 :INFO :test_addMobileNo :login
+2024-09-19 16:52:35,614 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2024-09-19 16:53:02,716 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:02,716 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:02,716 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:02,716 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:02,716 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:24,999 :INFO :test_rechargeMobile :randomly selecting a number
+2024-09-19 16:53:30,042 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:30,042 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:30,042 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:30,042 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:30,042 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:30,042 :INFO :login :clicking the Login account option with valid details
+2024-09-19 16:53:40,764 :INFO :test_validTrans :changing driver by refreshing
+2024-09-19 16:53:45,059 :DEBUG :utilities.test_logging :A debug statement is executed
+2024-09-19 16:53:45,059 :INFO :utilities.test_logging :info statement
+2024-09-19 16:53:45,059 :WARNING :utilities.test_logging :Something is in warning mode
+2024-09-19 16:53:45,059 :ERROR :utilities.test_logging :A major error has happened
+2024-09-19 16:53:45,059 :CRITICAL :utilities.test_logging :Critical
+2024-09-20 13:41:34,685 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2024-09-20 13:41:57,459 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2024-09-20 13:41:58,245 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2024-09-20 13:41:58,354 :INFO :test_validSubmission :testing with valid data
+2024-09-20 13:42:01,044 :INFO :test_validSubmission :checking check boxes
+2024-09-20 13:42:21,319 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:43:11,406 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:43:11,406 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:43:32,819 :INFO :test_EditMobileNo :clicking the Edit Button 
+2024-09-20 13:44:03,355 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-20 13:44:03,458 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-20 13:44:11,505 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-20 13:44:23,879 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-20 13:44:23,901 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-20 13:44:27,979 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-20 13:44:28,049 :INFO :test_forgotPassword :sending blank email address
+2024-09-20 13:44:30,142 :INFO :test_forgotPassword :sending not registered email id
+2024-09-20 13:44:34,671 :INFO :test_forgotPassword :sending valid email id
+2024-09-20 13:44:34,814 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:44:34,814 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:44:34,814 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:02,168 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:02,168 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:02,168 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:02,168 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:25,448 :INFO :test_addMobileNo :login
+2024-09-20 13:45:25,448 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2024-09-20 13:45:50,843 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:50,843 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:50,843 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:50,843 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:45:50,843 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:12,561 :INFO :test_rechargeMobile :randomly selecting a number
+2024-09-20 13:46:17,620 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:17,620 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:17,620 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:17,620 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:17,620 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:17,620 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:46:29,676 :INFO :test_validTrans :changing driver by refreshing
+2024-09-20 13:46:33,873 :DEBUG :utilities.test_logging :A debug statement is executed
+2024-09-20 13:46:33,873 :INFO :utilities.test_logging :info statement
+2024-09-20 13:46:33,873 :WARNING :utilities.test_logging :Something is in warning mode
+2024-09-20 13:46:33,873 :ERROR :utilities.test_logging :A major error has happened
+2024-09-20 13:46:33,873 :CRITICAL :utilities.test_logging :Critical
+2024-09-20 13:51:06,989 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-20 13:51:07,093 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-20 13:51:15,136 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-20 13:51:27,519 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-20 13:51:27,542 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-20 13:51:31,920 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-20 13:51:31,985 :INFO :test_forgotPassword :sending blank email address
+2024-09-20 13:51:34,073 :INFO :test_forgotPassword :sending not registered email id
+2024-09-20 13:51:39,129 :INFO :test_forgotPassword :sending valid email id
+2024-09-20 13:51:39,272 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:55:24,950 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2024-09-20 13:55:25,093 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-20 13:55:33,132 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2024-09-20 13:55:45,439 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2024-09-20 13:55:45,470 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2024-09-20 13:55:49,509 :INFO :test_forgotPassword :clicking the forgot pwd button
+2024-09-20 13:55:49,585 :INFO :test_forgotPassword :sending blank email address
+2024-09-20 13:55:51,675 :INFO :test_forgotPassword :sending not registered email id
+2024-09-20 13:55:56,056 :INFO :test_forgotPassword :sending valid email id
+2024-09-20 13:55:56,198 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:57:25,079 :INFO :login :clicking the Login account option with valid details
+2024-09-20 13:59:19,840 :INFO :login :clicking the Login account option with valid details
+2024-09-20 14:03:01,575 :INFO :login :clicking the Login account option with valid details
+2024-09-20 14:05:20,766 :INFO :login :clicking the Login account option with valid details
+2024-09-20 14:06:24,365 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:50:50,638 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 12:50:55,667 :INFO :test_validSubmission :testing with valid data
+2025-04-15 12:51:06,930 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:51:46,646 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:51:46,646 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:52:06,911 :INFO :test_EditMobileNo :clicking the Edit Button 
+2025-04-15 12:52:28,331 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2025-04-15 12:52:28,432 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 12:52:36,472 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2025-04-15 12:52:48,785 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 12:52:48,810 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2025-04-15 12:52:53,149 :INFO :test_forgotPassword :clicking the forgot pwd button
+2025-04-15 12:52:53,240 :INFO :test_forgotPassword :sending blank email address
+2025-04-15 12:52:55,314 :INFO :test_forgotPassword :sending not registered email id
+2025-04-15 12:53:00,071 :INFO :test_forgotPassword :sending valid email id
+2025-04-15 12:53:00,182 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:00,182 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:00,182 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:22,271 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:22,271 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:22,271 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:22,271 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:43,533 :INFO :test_addMobileNo :login
+2025-04-15 12:53:43,533 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2025-04-15 12:53:58,839 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:58,839 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:58,839 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:58,839 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:53:58,839 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:07,059 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:07,059 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:07,059 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:07,059 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:07,059 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:07,059 :INFO :login :clicking the Login account option with valid details
+2025-04-15 12:54:18,194 :INFO :test_validTrans :changing driver by refreshing
+2025-04-15 12:54:22,478 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 12:54:22,478 :INFO :utilities.test_logging :info statement
+2025-04-15 12:54:22,478 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 12:54:22,478 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 12:54:22,478 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 12:57:36,921 :INFO :test_validSubmission :testing with valid data
+2025-04-15 12:58:48,343 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 12:58:53,373 :INFO :test_validSubmission :testing with valid data
+2025-04-15 13:00:27,004 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 13:00:50,122 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2025-04-15 13:00:50,525 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2025-04-15 13:00:50,564 :INFO :test_validSubmission :testing with valid data
+2025-04-15 13:00:53,073 :INFO :test_validSubmission :checking check boxes
+2025-04-15 13:03:48,148 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:03:48,148 :INFO :utilities.test_logging :info statement
+2025-04-15 13:03:48,148 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:03:48,148 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:03:48,148 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:05:34,038 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:05:34,038 :INFO :utilities.test_logging :info statement
+2025-04-15 13:05:34,038 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:05:34,038 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:05:34,038 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:07:01,233 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:07:01,233 :INFO :utilities.test_logging :info statement
+2025-04-15 13:07:01,234 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:07:01,234 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:07:01,234 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:12:43,700 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:12:43,700 :INFO :utilities.test_logging :info statement
+2025-04-15 13:12:43,700 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:12:43,700 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:12:43,700 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:16:32,201 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:16:32,201 :INFO :utilities.test_logging :info statement
+2025-04-15 13:16:32,201 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:16:32,201 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:16:32,201 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:17:53,595 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:17:53,595 :INFO :utilities.test_logging :info statement
+2025-04-15 13:17:53,595 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:17:53,595 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:17:53,595 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:22:50,902 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:22:50,903 :INFO :utilities.test_logging :info statement
+2025-04-15 13:22:50,903 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:22:50,903 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:22:50,903 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:24:40,287 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:24:40,287 :INFO :utilities.test_logging :info statement
+2025-04-15 13:24:40,301 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:24:40,301 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:24:40,301 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:28:45,924 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:28:45,924 :INFO :utilities.test_logging :info statement
+2025-04-15 13:28:45,924 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:28:45,924 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:28:45,924 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:29:45,582 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:29:45,582 :INFO :utilities.test_logging :info statement
+2025-04-15 13:29:45,582 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:29:45,582 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:29:45,582 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:32:47,933 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:32:47,934 :INFO :utilities.test_logging :info statement
+2025-04-15 13:32:47,934 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:32:47,934 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:32:47,934 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:35:39,305 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:35:39,305 :INFO :utilities.test_logging :info statement
+2025-04-15 13:35:39,305 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:35:39,305 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:35:39,305 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:57:02,295 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:57:02,295 :INFO :utilities.test_logging :info statement
+2025-04-15 13:57:02,295 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:57:02,295 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:57:02,295 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:59:13,275 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:59:13,275 :INFO :utilities.test_logging :info statement
+2025-04-15 13:59:13,275 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:59:13,275 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:59:13,275 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 13:59:51,847 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 13:59:51,847 :INFO :utilities.test_logging :info statement
+2025-04-15 13:59:51,849 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 13:59:51,849 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 13:59:51,849 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:01:58,362 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:01:58,362 :INFO :utilities.test_logging :info statement
+2025-04-15 14:01:58,362 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:01:58,362 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:01:58,362 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:05:42,626 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:05:42,626 :INFO :utilities.test_logging :info statement
+2025-04-15 14:05:42,626 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:05:42,626 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:05:42,626 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:08:18,576 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:08:18,578 :INFO :utilities.test_logging :info statement
+2025-04-15 14:08:18,578 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:08:18,578 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:08:18,578 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:11:07,433 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:11:07,435 :INFO :utilities.test_logging :info statement
+2025-04-15 14:11:07,436 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:11:07,436 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:11:07,436 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:12:01,020 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:12:01,020 :INFO :utilities.test_logging :info statement
+2025-04-15 14:12:01,020 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:12:01,020 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:12:01,020 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:16:35,048 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 14:16:57,625 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2025-04-15 14:16:58,372 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2025-04-15 14:16:58,460 :INFO :test_validSubmission :testing with valid data
+2025-04-15 14:17:01,895 :INFO :test_validSubmission :checking check boxes
+2025-04-15 14:17:21,921 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:18:03,907 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:18:03,907 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:18:55,765 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 14:19:18,534 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2025-04-15 14:19:19,459 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2025-04-15 14:19:19,567 :INFO :test_validSubmission :testing with valid data
+2025-04-15 14:19:22,606 :INFO :test_validSubmission :checking check boxes
+2025-04-15 14:19:40,829 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:20:26,227 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:20:26,227 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:20:52,347 :INFO :test_EditMobileNo :clicking the Edit Button 
+2025-04-15 14:21:13,488 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2025-04-15 14:21:15,680 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:21:23,740 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2025-04-15 14:21:36,145 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:21:36,194 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2025-04-15 14:21:38,757 :INFO :test_forgotPassword :clicking the forgot pwd button
+2025-04-15 14:21:39,938 :INFO :test_forgotPassword :sending blank email address
+2025-04-15 14:21:42,154 :INFO :test_forgotPassword :sending not registered email id
+2025-04-15 14:21:48,911 :INFO :test_forgotPassword :sending valid email id
+2025-04-15 14:21:49,192 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:21:49,192 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:21:49,192 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:22:07,996 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:22:08,012 :INFO :utilities.test_logging :info statement
+2025-04-15 14:22:08,012 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:22:08,012 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:22:08,012 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:22:38,444 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 14:23:00,909 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2025-04-15 14:23:01,578 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2025-04-15 14:23:01,657 :INFO :test_validSubmission :testing with valid data
+2025-04-15 14:23:04,809 :INFO :test_validSubmission :checking check boxes
+2025-04-15 14:23:26,768 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:24:17,924 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:24:17,924 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:24:42,040 :INFO :test_EditMobileNo :clicking the Edit Button 
+2025-04-15 14:25:10,231 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2025-04-15 14:25:10,418 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:25:18,471 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2025-04-15 14:25:30,863 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:25:30,895 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2025-04-15 14:25:36,377 :INFO :test_forgotPassword :clicking the forgot pwd button
+2025-04-15 14:25:36,485 :INFO :test_forgotPassword :sending blank email address
+2025-04-15 14:25:38,625 :INFO :test_forgotPassword :sending not registered email id
+2025-04-15 14:25:43,083 :INFO :test_forgotPassword :sending valid email id
+2025-04-15 14:25:43,299 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:25:43,299 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:25:43,299 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:09,876 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:09,876 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:09,876 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:09,876 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:28,910 :INFO :test_addMobileNo :login
+2025-04-15 14:26:28,910 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2025-04-15 14:26:50,561 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:50,561 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:50,561 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:50,561 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:26:50,561 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:16,051 :INFO :test_rechargeMobile :randomly selecting a number
+2025-04-15 14:27:21,100 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:21,100 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:21,100 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:21,100 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:21,100 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:21,100 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:27:27,738 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:27:27,738 :INFO :utilities.test_logging :info statement
+2025-04-15 14:27:27,738 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:27:27,738 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:27:27,738 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:32:22,997 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 14:32:28,077 :INFO :test_validSubmission :testing with valid data
+2025-04-15 14:32:55,695 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:32:55,696 :INFO :utilities.test_logging :info statement
+2025-04-15 14:32:55,696 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:32:55,696 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:32:55,698 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:34:33,928 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 14:34:58,999 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2025-04-15 14:34:59,777 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2025-04-15 14:34:59,856 :INFO :test_validSubmission :testing with valid data
+2025-04-15 14:35:04,406 :INFO :test_validSubmission :checking check boxes
+2025-04-15 14:35:24,439 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:36:11,837 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:36:11,837 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:36:37,409 :INFO :test_EditMobileNo :clicking the Edit Button 
+2025-04-15 14:37:06,324 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2025-04-15 14:37:06,504 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:37:14,546 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2025-04-15 14:37:26,934 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:37:26,966 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2025-04-15 14:37:31,543 :INFO :test_forgotPassword :clicking the forgot pwd button
+2025-04-15 14:37:31,676 :INFO :test_forgotPassword :sending blank email address
+2025-04-15 14:37:33,810 :INFO :test_forgotPassword :sending not registered email id
+2025-04-15 14:37:38,683 :INFO :test_forgotPassword :sending valid email id
+2025-04-15 14:37:38,910 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:37:38,910 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:37:38,910 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:07,201 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:07,201 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:07,201 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:07,201 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:30,151 :INFO :test_addMobileNo :login
+2025-04-15 14:38:30,151 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2025-04-15 14:38:57,203 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:57,203 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:57,203 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:57,203 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:38:57,203 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:21,602 :INFO :test_rechargeMobile :randomly selecting a number
+2025-04-15 14:39:26,663 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:26,663 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:26,663 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:26,663 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:26,663 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:26,663 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:39:33,383 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:39:33,383 :INFO :utilities.test_logging :info statement
+2025-04-15 14:39:33,383 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:39:33,385 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:39:33,385 :CRITICAL :utilities.test_logging :Critical
+2025-04-15 14:46:20,538 :INFO :test_blankAndInvalidSubmission :clicking the create account option without filling details
+2025-04-15 14:46:43,213 :INFO :test_blankAndInvalidSubmission :sending invalid data
+2025-04-15 14:46:43,966 :INFO :test_blankAndInvalidSubmission :checking error msgs by assertion
+2025-04-15 14:46:44,072 :INFO :test_validSubmission :testing with valid data
+2025-04-15 14:46:47,300 :INFO :test_validSubmission :checking check boxes
+2025-04-15 14:47:04,644 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:47:56,259 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:47:56,259 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:48:19,380 :INFO :test_EditMobileNo :clicking the Edit Button 
+2025-04-15 14:48:47,863 :INFO :test_blankAndInvalidLogin :clicking the Login account option without filling details
+2025-04-15 14:48:48,033 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:48:56,069 :INFO :test_blankAndInvalidLogin :clicking the Login account option with Invalid details
+2025-04-15 14:49:08,468 :INFO :test_blankAndInvalidLogin :checking assertion errors
+2025-04-15 14:49:08,499 :INFO :test_blankAndInvalidLogin :capturing  assertion errors
+2025-04-15 14:49:13,528 :INFO :test_forgotPassword :clicking the forgot pwd button
+2025-04-15 14:49:13,638 :INFO :test_forgotPassword :sending blank email address
+2025-04-15 14:49:15,799 :INFO :test_forgotPassword :sending not registered email id
+2025-04-15 14:49:21,055 :INFO :test_forgotPassword :sending valid email id
+2025-04-15 14:49:21,226 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:49:21,226 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:49:21,226 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:49:47,872 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:49:47,872 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:49:47,872 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:49:47,872 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:09,454 :INFO :test_addMobileNo :login
+2025-04-15 14:50:09,454 :INFO :test_addMobileNo :Adding 10 mobile numbers
+2025-04-15 14:50:35,672 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:35,672 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:35,672 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:35,672 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:35,672 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:59,516 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:59,516 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:59,516 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:59,516 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:59,516 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:50:59,516 :INFO :login :clicking the Login account option with valid details
+2025-04-15 14:51:06,233 :DEBUG :utilities.test_logging :A debug statement is executed
+2025-04-15 14:51:06,233 :INFO :utilities.test_logging :info statement
+2025-04-15 14:51:06,233 :WARNING :utilities.test_logging :Something is in warning mode
+2025-04-15 14:51:06,233 :ERROR :utilities.test_logging :A major error has happened
+2025-04-15 14:51:06,233 :CRITICAL :utilities.test_logging :Critical
++
